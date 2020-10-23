@@ -1,0 +1,8 @@
+surgical ward@False@
+medical ward@False@
+Eye@False@
+Dental@False@
+orthopedic@False@
+pediatric@False@
+urology@False@
+coronary@False@
